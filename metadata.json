@@ -1,0 +1,10 @@
+{
+  "name": "Remix KIDECO OIMS — Office Inventory Management System",
+  "description": "Centralized Office Inventory Management System (OIMS) for KIDECO – Member of Indika Energy Group (Digitalization Roadmap 2027–2031).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
